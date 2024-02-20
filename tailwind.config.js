@@ -7,7 +7,9 @@ export default {
   ],
   theme: {
     extend: {
-      
+      colors: {
+        "navyblue"  : "#04508c",
+      }
     },
   },
   plugins: [],
